@@ -17,8 +17,7 @@ This project is a fire detection system using an ARDIUNO UNO R23, temperature se
 - Resistors and connecting wires
 - Breadboard
 
-## Circuit Diagram
-*(Include or link your circuit diagram here)*
+
 
 ## How to Use
 1. Clone this repository:https://github.com/GUDITI-YOGENDRA-BABU/Fire-Detection-System-.git
@@ -28,9 +27,6 @@ This project is a fire detection system using an ARDIUNO UNO R23, temperature se
 5. Test the system using heat or smoke.
 
 ## Demo Video
-*(Provide a link to your demo video if available)*
-
-## License
-This project is open-source under the MIT License.
+https://drive.google.com/file/d/1VX6IRJhMJY_N1SCCFIxPX9HIf8BT4HAY/view?usp=sharing
 
 
